@@ -1,0 +1,97 @@
+Pradiniai duomenys:
+
+-----------------------------------
+ Nr. |        Code |  Count | Price
+-----------------------------------
+   1 |  ;BV0GB8@Q2 |      7 | 4.23
+   2 |  ?1YJUKC:NM |      3 | 1.1
+   3 |  9UD4BGCLI: |      3 | 4.24
+   4 |  7@S8;G:A0O |      6 | 1.88
+   5 |  H4<FG7QC2: |      2 | 7.3
+   6 |  ;1Q<4>Y1JK |      4 | 2.77
+   7 |  20KDJNKIL8 |      7 | 9.17
+   8 |  EF7;O2F4SN |      9 | 8.74
+   9 |  7SRM:<V?HI |      9 | 7.56
+  10 |  E=;6KLBJTG |      7 | 2.79
+  11 |  GDJ0SNH3K4 |      8 | 3.97
+  12 |  2@NVYTIRQ4 |      6 | 0.01
+  13 |  T3UI557:JL |      4 | 1.94
+  14 |  JFK:V:K:R4 |      8 | 3.41
+  15 |  1L5RE3A095 |      7 | 7.04
+  16 |  SX1>7BXA4E |      3 | 1.38
+  17 |  9@VHCE:Q5B |      3 | 8.38
+  18 |  1@PH<=1EHR |      5 | 2.87
+  19 |  7THNV8OA@H |      2 | 1.15
+  20 |  M@6RESVBYX |      3 | 8.68
+  21 |  P=I@31IL2< |      7 | 0.95
+  22 |  H7>>CX04YN |      1 | 5.95
+  23 |  R9TS@5UN1S |      9 | 8.92
+  24 |  >?KQRP9MNC |      3 | 5.26
+  25 |  4VY3EJEVJ5 |      6 | 5.21
+  26 |  P:MB9IKI;R |      3 | 3.85
+  27 |  D1Y758X;LT |      2 | 9.16
+  28 |  L?RB8>4V9Y |      5 | 9.29
+  29 |  QJ:1MIPRW< |      8 | 6.53
+  30 |  KIQ:SOOA=@ |      8 | 5.65
+  31 |  DN6WI:E?W< |      2 | 0.17
+  32 |  JUHXBCJLT> |      3 | 0.17
+  33 |  GEJ;LO5VCE |      8 | 5.81
+  34 |  JF1<NQJL3X |      4 | 8.8
+  35 |  Q?SA>0;?YR |      4 | 8.12
+  36 |  UTX;5YBK7N |      3 | 3.06
+  37 |  FXY6VRDFCI |      2 | 7.89
+  38 |  O8I2=?3J3W |      1 | 4.52
+  39 |  3VPH7K58;F |      7 | 1.27
+  40 |  D9<HMU=O@3 |      7 | 1.79
+  41 |  BCR6C2;DF< |      2 | 0.03
+  42 |  3FX8KSG1VP |      5 | 6.5
+-----------------------------------
+
+Rezultatai:
+
+-------------------------------------------------------------------------------------------------------
+ Nr. |        Code |  Count |                                                              Hash | Price
+-------------------------------------------------------------------------------------------------------
+   1 |  2@NVYTIRQ4 |      6 |  5b613b6650d7dfdeb1c46838f35950b8ca30b399d79f2201309a15cb4b39018a | 0.01
+   2 |  BCR6C2;DF< |      2 |  0fbf63270eb8e9c6fb9558175427ae71416c6bd992d1e81a695859151e1ac12c | 0.03
+   3 |  JUHXBCJLT> |      3 |  d15307b82db0ee9b666fa76fccc6e5558cb16cd0508f6c54336e1a9f86aab81e | 0.17
+   4 |  DN6WI:E?W< |      2 |  10470d6486352b28ebf1210c0b9f38b6482e78fbf1205bb29ee3b562eaa877da | 0.17
+   5 |  P=I@31IL2< |      7 |  54254db1043c0435d10b2decb7e83652222ed59b1ec3d77e70a30a1024ce7bab | 0.95
+   6 |  ?1YJUKC:NM |      3 |  d678a3d5e2304f43c34208c1850e24d07ed458b3d6bbcb6caa37d4608201446f | 1.1
+   7 |  7THNV8OA@H |      2 |  782b5795a1e71c1933d3d6183c4f16903a18595a47ba86a4974f0804575dd1de | 1.15
+   8 |  3VPH7K58;F |      7 |  da76d5031856ba044d7ff7b7097842a436074457ff5e5d84e130c6773742092f | 1.27
+   9 |  SX1>7BXA4E |      3 |  1379447a590fb931c88f4b140f5362cf6260bf5f7ced2226ee3288b19cfef2fc | 1.38
+  10 |  D9<HMU=O@3 |      7 |  1505ee0cfdb960e52a38b5597d0a2d7e833c74a94ef2b7f1de74460dc2fadc3c | 1.79
+  11 |  7@S8;G:A0O |      6 |  bad61de23a4071236cbc758941e8ae7ffd6cf600d20eace11e8043cc1285f58d | 1.88
+  12 |  T3UI557:JL |      4 |  c902039242481adc5411799b4219b481eab34dd124ff6a5832460286999fb60c | 1.94
+  13 |  ;1Q<4>Y1JK |      4 |  59ae5852c90acf51a5acc1d2f0940e4e7160dce5b67d0f62851e5781594e89ba | 2.77
+  14 |  E=;6KLBJTG |      7 |  50ea024a177ecbeedef6d971eec19f35e233e599a41c8a37c68888e2f8775d6b | 2.79
+  15 |  1@PH<=1EHR |      5 |  a99793dd565e0be9ed934fc567d50ed79dae4a97e05f45fe336cb58f231f91de | 2.87
+  16 |  UTX;5YBK7N |      3 |  bc0cb5911f35cff720a78a8fe1cf471f63d1904604d8305edd5f0e90bd180a8e | 3.06
+  17 |  JFK:V:K:R4 |      8 |  98c46b763dfabaced71e166697240101d159ae6c8657207b62b272449a3126fb | 3.41
+  18 |  P:MB9IKI;R |      3 |  c3ed4482b4814cac722aaa01022223f83c4c82e5aab31d19d9f05667ef993b5e | 3.85
+  19 |  GDJ0SNH3K4 |      8 |  7c08137c6c23f792542338fbe1c1f24b15894fdd4ff0110025e48973feee63df | 3.97
+  20 |  ;BV0GB8@Q2 |      7 |  005c8a32e8d909db2db33834fdea54f785369d267f534c4dea68b0ac70653f6a | 4.23
+  21 |  9UD4BGCLI: |      3 |  92aa031a917a9509d38f59d81128d26f18bc1dee069d5abb5e99835106ef209d | 4.24
+  22 |  O8I2=?3J3W |      1 |  2c026fcec7310f44735a0b687c9b5cf95e170c336c6b3f3164c9964558ff89dd | 4.52
+  23 |  4VY3EJEVJ5 |      6 |  b37d8e22c4ec3b8fff548eb4ae490d17410621778be5c70f3d8585f4f9d1928f | 5.21
+  24 |  >?KQRP9MNC |      3 |  33eab12bc6dcb372221974e6d5e7b6e6ebd8cfe0d82a6055116f8fd74ac8ad0a | 5.26
+  25 |  KIQ:SOOA=@ |      8 |  c41e4f11c2eff76b73d55a7d8892df823c4239997f042ddb14ca84a9c149b20e | 5.65
+  26 |  GEJ;LO5VCE |      8 |  37bdefb017bfd9bd6cfe20511577b36e7ff9e1e0d2ccbb3687f5bfd66bae01fc | 5.81
+  27 |  H7>>CX04YN |      1 |  26613cc43d79b99b37e0e6ad7b78d3b51f744da67ed3379086e8715b09ef5fda | 5.95
+  28 |  3FX8KSG1VP |      5 |  e721120def5202c354c75d551e36481a48fee8318d8a88b312d9a1655420c69d | 6.5
+  29 |  QJ:1MIPRW< |      8 |  5403ce5179d7a139f663ac32abad82e93b49bfb9532d8f103d152fd9edf986cb | 6.53
+  30 |  1L5RE3A095 |      7 |  01866f899ce87e2b163261d25c53331b67f35bc16df12324046f47fdfd23b74f | 7.04
+  31 |  H4<FG7QC2: |      2 |  9ae905903e4d169824c9a882db5603645fe0b7f681b87f3cea4781e85be6cccb | 7.3
+  32 |  7SRM:<V?HI |      9 |  c2cf5a8ecb9cb473bc1ac2161837f33e10cb9c5a8ef984377b17b498c5f7f7bd | 7.56
+  33 |  FXY6VRDFCI |      2 |  ab849b27713ecb4c2cb65def30ab91d13e7723820b8ba6794b95d262ed2feb8a | 7.89
+  34 |  Q?SA>0;?YR |      4 |  5a46e5519fa73f7c575b0f11c823ef454e9d69bcc930a94ddfc365797cb7569b | 8.12
+  35 |  9@VHCE:Q5B |      3 |  2aacce456ac6d9750af78a19dc1f67f71b45181d2fc1f2db2d657250c70d4d4f | 8.38
+  36 |  M@6RESVBYX |      3 |  89b1a2a070aa7f4fcd030a6e8d6ee064247a268d1e71bce112586a852d3440ee | 8.68
+  37 |  EF7;O2F4SN |      9 |  cd422ce75218313c253668a4e72fe8c1bad9745fd2c5061344e8938487b7641f | 8.74
+  38 |  JF1<NQJL3X |      4 |  d9943be504650dbef0008fae23f719a031b30be0d732033afabcb35c39b2bf9a | 8.8
+  39 |  R9TS@5UN1S |      9 |  76afeddc73516c0a483639580d2219c59dff7631c57da54a13d640ecf2525fda | 8.92
+  40 |  D1Y758X;LT |      2 |  4fbc9da15534b92dca5e26f8e2a0a5a6455c41463bc5fbae05215b7a4adea22c | 9.16
+  41 |  20KDJNKIL8 |      7 |  bec5ad3e47fc1bc437884640b7c26c3bc7498b2068d6e00bf9cf308b504f887c | 9.17
+  42 |  L?RB8>4V9Y |      5 |  27d4fc2e401fb343e78f70ceef5e29050fdfd95849feb5d7da62b0682fb105ba | 9.29
+-------------------------------------------------------------------------------------------------------
